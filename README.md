@@ -1,6 +1,5 @@
 Project Overview
-This project is an end-to-end automation framework built using Python + Selenium WebDriver to automate functional test scenarios on the Demo Web Shop application:
-https://demowebshop.tricentis.com
+This project is an end-to-end automation framework built using Python + Selenium WebDriver to automate functional test scenarios on the Demo Web Shop application: https://demowebshop.tricentis.com
 The framework demonstrates real-world automation practices such as:
 Structured test execution
 Screenshot capture with timestamp
